@@ -20,7 +20,7 @@ All actual projects live in their own repos.
 
 ## 💬 Why “Unstylish Tadpole”?
 
-As a newbie who is unsure and flailing, but hoping to grow into a confident and effective developer,
+As a newbie who is unsure and flailing, but hoping to grow into a confident and effective developer...  
 I'm embracing the awkward early stages of learning and documenting the swim toward clarity.
 
 But spoiler... maybe I wasn't a tadpole waiting to become a frog all along...
