@@ -1,4 +1,4 @@
-🐸 The Unstylish Tadpole
+# 🐸 The Unstylish Tadpole
 
 Welcome to my dev diary —  a log of my journey into programming. 
 This repo doesn’t hold code — it holds context.
